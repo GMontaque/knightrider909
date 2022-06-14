@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giulio
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript libraries such as React and Angular
-- 📫 How to reach me, via email
+- 📫 How to reach me, via email GiulioM@hotmail.co.uk
 
 Creative Web Developer committed to constructing and optimising websites from the ground up,
 including concept, navigation, layout, programming, UX design, and some SEO concepts. Proficient at
